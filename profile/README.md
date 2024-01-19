@@ -11,3 +11,6 @@
 👩‍💻 Useful resources:
 - Check our website for the most recent updates and posts! [matthiesen.xyz](https://matthiesen.xyz)
 
+:sparkles: Top Projects:
+
+- [Astro-GhostCMS](https://astro-ghostcms.xyz) An Astro Integration & API to allow better intergration of the [Ghost.io](https://ghost.io) Content-API into Astro
